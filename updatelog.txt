@@ -1,2 +1,1 @@
-!changed! Prefixes are now !cb!'!cb! and !cb!*!cb!
-!added! LastFM commands added use !cb!'fm add <username>!cb! to login
+!changed! Prefixes are now !cb!'!cb! and !cb!*!cb!\n!added! LastFM commands added use !cb!'fm add <username>!cb! to login
